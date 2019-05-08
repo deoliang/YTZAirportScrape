@@ -1,4 +1,4 @@
-# YVRAirportScrape
+# YTZAirportScrape
 Node.js script that scrapes the Billy Bishop Toronto City Airport(YTZ) website for destinations. Cheerio and puppeteer libraries used
 
 # Usage
